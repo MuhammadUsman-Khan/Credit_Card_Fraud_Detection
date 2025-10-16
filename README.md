@@ -76,7 +76,9 @@ The model performs well in identifying fraudulent transactions while minimizing 
 
 1. Clone the repository:
    
-  ``` git clone https://github.com/MuhammadUsman-Khan/Credit_Card_Fraud_Detection.git ```
+```
+git clone https://github.com/MuhammadUsman-Khan/Credit_Card_Fraud_Detection.git
+```
   
 
 Open the notebook:
